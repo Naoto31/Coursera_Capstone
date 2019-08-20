@@ -1,0 +1,19 @@
+A description of the problem and a discussion of the background.
+
+Open a coffee shop in Wellington!
+
+In the near future, I am going to live in New Zealand for at least 1 year and wondering which city 
+would have interesting things to offer to me. In order to decide which city I am visiting, 
+I need to analyze characteristics of several cities in New Zealand and see what they look like. 
+However, it would be still complicating to me that I, as a beginner data scientist, would scrape 
+various data in different cities and compare them in Python. Therefore, I would go for a simple premise, 
+which is that I am going to live in Wellington, where actually IBM headquarters in New Zealand is located, 
+and ICT and degitech industry are growing. 
+
+Now I have decided to go for Wellington, but a problem still remains. 
+In which part of Wellington would it be comfortable for me to stay? For that answer, 
+I already have a clue, which is coffee! 
+
+Let us say that I am coffee addicted and need to open my own coffee shop in Wellington to survive. 
+What I am going to do is to check venues and inhabitants in each district and find out a place 
+where there are many inhabitants with less competitors, coffee shops!
